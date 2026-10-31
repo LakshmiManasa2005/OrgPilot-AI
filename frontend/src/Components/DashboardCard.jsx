@@ -11,3 +11,5 @@ function DashboardCard({ title, value, icon }) {
 }
 
 export default DashboardCard;
+
+//this is 1 page. 

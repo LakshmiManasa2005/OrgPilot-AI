@@ -1,4 +1,4 @@
-//this is logi
+//this is lo
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import "../styles/login.css";

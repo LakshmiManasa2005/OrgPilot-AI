@@ -1,0 +1,7 @@
+
+POST http://localhost:8080/api/ai/chat
+Content-Type: application/json
+
+{
+  "question": "Explain artificial intelligence in two sentences."
+}

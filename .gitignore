@@ -1,0 +1,10 @@
+node_modules/
+frontend/node_modules/
+frontend/dist/
+backend1/target/
+backend1/uploads/
+.idea/
+.vscode/
+.env
+.env.*
+!.env.example

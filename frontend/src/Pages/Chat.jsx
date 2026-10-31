@@ -3,6 +3,14 @@ import { useState, useEffect, useRef } from "react";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import "../styles/chat.css";
+//rajkumar
+
+
+//koushik
+
+
+//hashmika
+
 
 function Chat() {
     const [message, setMessage] = useState("");
